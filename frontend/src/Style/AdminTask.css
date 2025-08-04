@@ -1,0 +1,29 @@
+.admin-task {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  min-height: 100vh;
+}
+
+.admin-task h1, .admin-task h2 {
+  color: #333;
+}
+
+.admin-task table {
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.admin-task button {
+  transition: background 0.3s;
+}
+
+.admin-task button:hover {
+  opacity: 0.9;
+}
+
+.admin-task form {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
